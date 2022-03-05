@@ -16,9 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto 
 
-Mini sistema financeiro com as funcionalidades de adicionar e deletar transacações entradas ou saídas e calculo total dos valores.
+Mini sistema financeiro com as funcionalidades de adicionar e deletar transações entradas ou saídas e calculo total dos valores.
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/WyllianSilveira/Sistema-de-controle-financeiro/blob/main/LICENSE) para mais detalhes.
 
