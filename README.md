@@ -1,10 +1,11 @@
 # Sistema de controle financeiro
+<br>
 
-
-<p align="center" width="10%">
-  <img alt="imagem-sistema-financeiro" src="./assets/finances_img.png">
+<p align="center">
+  <img  width="70%" alt="imagem-sistema-financeiro" src="./assets/finances_img.png">
 </p>
 
+<br>
 
 ## Tecnologias
 
