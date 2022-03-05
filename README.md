@@ -2,7 +2,7 @@
 <br>
 
 <p>
-  <img  width="80%" alt="imagem-sistema-financeiro" src="./assets/finances_img.png">
+  <img  width="90%" alt="imagem-sistema-financeiro" src="./assets/finances_img.png">
 </p>
 <br>
 
