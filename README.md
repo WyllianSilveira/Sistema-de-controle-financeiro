@@ -1,4 +1,4 @@
-# Sistema-de-controle-financeiro
+# Sistema de controle financeiro
 
 
 <p align="center" border="none">
