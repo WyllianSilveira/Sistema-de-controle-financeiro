@@ -2,7 +2,7 @@
 
 
 <p align="center" border="none">
-  <img alt="imagem-sistema-financeiro" src="./public/assets/todo_List_img.png">
+  <img alt="imagem-sistema-financeiro" src="./assets/finances_img.png">
 </p>
 
 
@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto 
 
-Mini sistema financeiro com as funcionalidades de adicionar e deletar transações entradas ou saídas e calculo total dos valores.
+Mini sistema financeiro com as funcionalidades de adicionar, deletar transações entradas ou saídas e calculo total dos valores.
 
 ## Licença
 
