@@ -1,7 +1,7 @@
 # Sistema de controle financeiro
 
 
-<p align="center" border="none">
+<p align="center" width="90%">
   <img alt="imagem-sistema-financeiro" src="./assets/finances_img.png">
 </p>
 
