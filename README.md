@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto 
 
-Mini sistema financeiro responsivo com as funcionalidades de adicionar, deletar transações entradas ou saídas e calculo total dos valores.
+Mini sistema financeiro responsivo com as funcionalidades de adicionar transaçoes, deletar transações e calculo total dos valores.
 
 ## Licença
 
