@@ -5,7 +5,8 @@
     --base-color: #012250;
     --dark-blue: #363f5f;
     --total-color: #014DB7;
-    --background-color: #f0f2f5;
+    /* --background-color: #f0f2f5; */
+    --background-colo: red;
     --green-btn: #49aa26;
     --red: #e92929;
 }
